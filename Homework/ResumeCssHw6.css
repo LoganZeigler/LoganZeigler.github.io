@@ -23,7 +23,11 @@ body {
 	
 	}
 
-#experience, #skills, #education, #voluntary, #extra {
+#experience, #skills, #education {
+	font-family: fascinate;
+}
+
+#extra, #voluntary {
 	font-family: fascinate;
 }
 
