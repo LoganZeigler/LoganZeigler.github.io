@@ -3,7 +3,7 @@
 /*style baby*/
 body {
 	background-color: #A7F8CC;
-	background-image:;
+	
 	background-image:url("WebList_hw4/images/pngtree-liquid-swirls-texture-image-background-mix-stone-marble-image_115547.png");
 	
 	
@@ -18,10 +18,14 @@ body {
 	column-fill: auto;
 	backgound-attachment: fixed;
 	
-	 
+	 font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif"
 	
 	
 	}
+
+#experience, #skills, #education, #voluntary, #extra {
+	font-family: fascinate;
+}
 
 mark {
   background-color: blue;
@@ -53,7 +57,5 @@ mark {
 		color: white;
     }
 
- {
-	color:white;
-}
+
     
