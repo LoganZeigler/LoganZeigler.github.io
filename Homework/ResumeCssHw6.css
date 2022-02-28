@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* CSS Document */
+/*style baby*/
+body {
+	background-color: #A7F8CC;
+	background-image:;
+	background-image:url("WebList_hw4/images/pngtree-liquid-swirls-texture-image-background-mix-stone-marble-image_115547.png");
+	
+	
+	background-repeat:repeat;
+	background-position:center 50px;
+	color: white;
+	
+	  width: 1000px;
+  border: 25px dashed;
+  padding: 50px;
+  margin: 20px;
+	column-fill: auto;
+	backgound-attachment: fixed;
+	
+	 
+	
+	
+	}
+
+mark {
+  background-color: blue;
+  color: white;
+}
+
+.name {
+    color: white;
+    font-family: fascinate;
+    font-style: normal;
+    font-weight: 400;
+    font-size: xx-large;
+}
+    b {
+        font-size:120%;
+		color: white;
+    }
+    
+    h3 {
+        text-align:center;
+		color: white;
+    }
+    p  {
+        text-align:center;
+		color: white;
+    }
+    p1  {
+        text-align:center;
+		color: white;
+    }
+
+ {
+	color:white;
+}
+    
